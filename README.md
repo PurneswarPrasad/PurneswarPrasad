@@ -48,7 +48,7 @@ Besides these, I watch basketball 🏀 and play some music 🎸
 <code><img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/t6pChQJv_400x400.png?raw=true"></code>
 <code><img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/seaborn.png?raw=true"></code>
 
-### Machine Learning (currently learning):
+### Machine Learning (*ongoing*):
 <br>
 
 <code><img height="40" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/1200px-Scikit_learn_logo_small.svg.png?raw=true"></code>
