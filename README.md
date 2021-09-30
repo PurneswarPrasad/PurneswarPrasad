@@ -11,7 +11,7 @@
 
 Hello, I'm **Purneswar Prasad**, a final year Electronics UG at NIT Rourkela, India. As a versatile person, I like to keep myself engaged with any new technology I can find around. Currently I'm practicing to be a good developer and better my problem solving skills. 
 
-👨‍💻 I am passionate about *Cloud Native* engineering and distributed systems architecture and currently learning and contributing to Kubernetes ! 
+👨‍💻 I am passionate about *Cloud Native* engineering and distributed systems architecture and currently learning and contributing to [Kubernetes](https://github.com/kubernetes) ! 
 
 Besides these, I watch basketball 🏀 and play some music 🎸
 
@@ -59,6 +59,9 @@ Besides these, I watch basketball 🏀 and play some music 🎸
 ### 📢 Coding Platform
 <p align="left">
   
+  <a href="https://leetcode.com/purnez/">
+    <img height="35" src="https://raw.githubusercontent.com/PurneswarPrasad/AbhishekMaira10/cf4119adbc6b47164f40db796b28cad6c0cc0221/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/purneswar">
     <img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/220px-HackerRank_Icon-1000px.png?raw=true" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
