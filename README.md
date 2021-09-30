@@ -9,9 +9,9 @@
 
 <br>
 
-Hello, I'm **Purneswar Prasad**, a final year Electronics UG at NIT Rourkela, India. As a versatile person, I like to keep myself engaged with any new tech around. Currently I'm on my way to be a *Machine Learning Engineer* to create something impactful in the health and education industry. 
+Hello, I'm **Purneswar Prasad**, a final year Electronics UG at NIT Rourkela, India. As a versatile person, I like to keep myself engaged with any new technology I can find around. Currently I'm practicing to be a good developer and better my problem solving skills. 
 
-👨‍💻 I am passionate about *Blockchain* technology, *AR/VR* and recently have a new-found crazy interest in *DevOps* and *Cloud Native Engineering*! 
+👨‍💻 I am passionate about *Cloud Native* engineering and distributed systems architecture and currently learning and contributing to Kubernetes ! 
 
 Besides these, I watch basketball 🏀 and play some music 🎸
 
@@ -48,12 +48,13 @@ Besides these, I watch basketball 🏀 and play some music 🎸
 <code><img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/t6pChQJv_400x400.png?raw=true"></code>
 <code><img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/seaborn.png?raw=true"></code>
 
+<!--
 ### Machine Learning (*ongoing*):
 <br>
 
 <code><img height="40" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/1200px-Scikit_learn_logo_small.svg.png?raw=true"></code>
 <code><img height="60" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/TensorFlow%202.0%20Logo.png?raw=true"></code>
-
+-->
 ---
 ### 📢 Coding Platform
 <p align="left">
