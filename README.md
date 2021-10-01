@@ -10,7 +10,7 @@
 <br>
 
 Hello, I'm **Purneswar Prasad**, a final year Electronics UG at NIT Rourkela, India. As a versatile person, I like to keep myself engaged with any new technology I can find around. Currently I'm practicing to be a good developer and better my problem solving skills. 
-
+Explored the world of Open Source a bit late, but a fan since then!
 👨‍💻 I am passionate about *Cloud Native* engineering and distributed systems architecture and currently learning and contributing to [Kubernetes](https://github.com/kubernetes) ! 
 
 Besides these, I watch basketball 🏀 and play some music 🎸
