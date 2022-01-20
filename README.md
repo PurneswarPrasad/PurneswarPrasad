@@ -2,7 +2,7 @@
 
 **Connect with me:**
 <p align="left">
-<a href="https://twitter.com/purnez23" target="_blank"><img height="30" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/twt2.jfif?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/purnez23" target="_blank"><img height="31" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/twt2.jfif?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:prasad.sonu786@gmail.com" target="_blank"><img height="30" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/Gmail-logo.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/purneswar-prasad/" target="_blank"><img height="30" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/Linkedin-logo-icon-png.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
