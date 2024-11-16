@@ -10,7 +10,7 @@
 
 <br>
 
-Hello, I'm **Purneswar Prasad**, a developer from India. As a versatile person, I like to keep myself engaged with any new technology I can find around. Currently I'm practicing to hone my frontend sills. 
+Hello, I'm **Purneswar Prasad**, a developer from India. As a versatile person, I like to keep myself engaged with any new technology I can find around. Currently I'm practicing to hone my frontend skills and improve my problem solving abilities. 
 <br>
 Explored the world of Open Source a bit late, but a fan since then!
 <br>
@@ -35,6 +35,7 @@ Besides these, I watch basketball 🏀 and play some music 🎸
  
  </br>
 
+<!--
 ### Languages:
 <br>
 
@@ -50,6 +51,7 @@ Besides these, I watch basketball 🏀 and play some music 🎸
 <code><img height="40" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/1200px-NumPy_logo_2020.png?raw=true"></code>
 <code><img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/t6pChQJv_400x400.png?raw=true"></code>
 <code><img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/seaborn.png?raw=true"></code>
+-->
 
 <!--
 ### Machine Learning (*ongoing*):
@@ -65,9 +67,6 @@ Besides these, I watch basketball 🏀 and play some music 🎸
   <a href="https://leetcode.com/purnez/">
     <img height="35" src="https://raw.githubusercontent.com/PurneswarPrasad/AbhishekMaira10/cf4119adbc6b47164f40db796b28cad6c0cc0221/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/purneswar">
-    <img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/220px-HackerRank_Icon-1000px.png?raw=true" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -82,8 +81,8 @@ Besides these, I watch basketball 🏀 and play some music 🎸
 <a href="https://github.com/PurneswarPrasad/sigmaHacks-proj-learnSmart" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PurneswarPrasad&repo=sigmaHacks-proj-learnSmart&theme=dracula" />
 </a>
-<a href="https://github.com/PurneswarPrasad/Good-python-code-samples" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PurneswarPrasad&repo=Good-python-code-samples&theme=dracula" />
+<a href="https://github.com/PurneswarPrasad/JS-projects" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PurneswarPrasad&repo=JS-projects&theme=dracula" />
 </a>
 <a href="https://github.com/PurneswarPrasad/Data-visualisations-in-Python" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PurneswarPrasad&repo=Data-visualisations-in-Python&theme=dracula" />
